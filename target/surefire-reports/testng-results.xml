@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Tests" duration-ms="19321" started-at="2016-08-30T00:18:29Z" finished-at="2016-08-30T00:18:48Z">
+    <groups>
+    </groups>
+    <test name="Smoke Tests" duration-ms="19321" started-at="2016-08-30T00:18:29Z" finished-at="2016-08-30T00:18:48Z">
+      <class name="mobiletestcases.MobileTestCases">
+        <test-method status="PASS" signature="mtest1()[pri:0, instance:mobiletestcases.MobileTestCases@26ba2a48]" name="mtest1" duration-ms="1" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mtest1 -->
+        <test-method status="PASS" signature="mtest2()[pri:0, instance:mobiletestcases.MobileTestCases@26ba2a48]" name="mtest2" duration-ms="0" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mtest2 -->
+        <test-method status="PASS" signature="mtest3()[pri:0, instance:mobiletestcases.MobileTestCases@26ba2a48]" name="mtest3" duration-ms="0" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mtest3 -->
+        <test-method status="PASS" signature="mtest4()[pri:0, instance:mobiletestcases.MobileTestCases@26ba2a48]" name="mtest4" duration-ms="0" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mtest4 -->
+        <test-method status="PASS" signature="mtest5()[pri:0, instance:mobiletestcases.MobileTestCases@26ba2a48]" name="mtest5" duration-ms="0" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mtest5 -->
+        <test-method status="PASS" signature="mtest6()[pri:0, instance:mobiletestcases.MobileTestCases@26ba2a48]" name="mtest6" duration-ms="8749" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mtest6 -->
+      </class> <!-- mobiletestcases.MobileTestCases -->
+      <class name="smoketestcases.webtestcases">
+        <test-method status="PASS" signature="mtest6()[pri:0, instance:smoketestcases.webtestcases@38082d64]" name="mtest6" duration-ms="10538" started-at="2016-08-30T01:18:29Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mtest6 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:smoketestcases.webtestcases@38082d64]" name="test1" duration-ms="1" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:smoketestcases.webtestcases@38082d64]" name="test2" duration-ms="0" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:smoketestcases.webtestcases@38082d64]" name="test3" duration-ms="0" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:smoketestcases.webtestcases@38082d64]" name="test4" duration-ms="0" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:smoketestcases.webtestcases@38082d64]" name="test5" duration-ms="0" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:smoketestcases.webtestcases@38082d64]" name="test6" duration-ms="0" started-at="2016-08-30T01:18:39Z" finished-at="2016-08-30T01:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- smoketestcases.webtestcases -->
+    </test> <!-- Smoke Tests -->
+  </suite> <!-- Automation Tests -->
+</testng-results>
